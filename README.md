@@ -82,4 +82,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 **Keywords**: Streamlit, Pandas, NumPy, Keras (TensorFlow), yfinance, Prophet (Facebook), Plotly, LSTM, Slider (UI interaction), Data caching.  
 ```
 
-This should match the format and style you're looking for! Let me know if any adjustments are needed.
