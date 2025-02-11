@@ -81,4 +81,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Keywords**: Streamlit, Pandas, NumPy, Keras (TensorFlow), yfinance, Prophet (Facebook), Plotly, LSTM, Slider (UI interaction), Data caching.  
 ```
+## Conference Paper
+
+[Download Conference Paper 370 (Final)](https://ik.imagekit.io/imagespath/Conference%20Paper%20370%20Final.docx?updatedAt=1739293594265)
 
